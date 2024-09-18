@@ -1,4 +1,4 @@
-![theclich](https://github.com/user-attachments/assets/85840870-b4ca-45f6-ba32-3bfa00c70390)<p>
+<p>
  !(/theclich.jpg)
 </p>
 <p align="center">
