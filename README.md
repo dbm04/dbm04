@@ -1,5 +1,5 @@
 ![theclich](https://github.com/user-attachments/assets/85840870-b4ca-45f6-ba32-3bfa00c70390)<p>
- ![Descripcion de la imagen](/theclich.jpg)
+ !(/theclich.jpg)
 </p>
 <p align="center">
    <a href="https://twitch.tv/theclich2" target="blank">
