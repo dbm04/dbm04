@@ -1,5 +1,5 @@
 <p>
- !(/theclich.jpg)
+  
 </p>
 <p align="center">
    <a href="https://twitch.tv/theclich2" target="blank">
